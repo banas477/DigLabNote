@@ -33,4 +33,16 @@ _This is aslo italicized_
 
 ## Combination of both
 
-You can combine both **bold** an *italics* by using combination of underscore abd asterik: This 
+You can combine both **bold** an *italics* by using combination of underscore abd asterik: **This text is italicized and bold
+
+#Line Ruling
+
+Youc can rule lines like this
+---
+
+___
+
+***
+
+
+
