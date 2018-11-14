@@ -109,4 +109,11 @@ Use either asterik or minus sign:
 - [x] checked list 1
 - [ ] checked list 1
 
+# Links and Images
+
+You can link stuff to your documents  like this : [etherpad](https://pad.carpentroes.org/2018-11-13-otago-dc)
+
+To put an image, use an exclmation amrk before link:
+![rat]
+
 
