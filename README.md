@@ -40,9 +40,38 @@ You can combine both **bold** an *italics* by using combination of underscore ab
 Youc can rule lines like this
 ---
 
+ or like this
 ___
 
+
+or like this
 ***
 
+
+# Quotes and Code Blocks
+
+## Quotes
+
+To add quotes, use a greater sign:
+
+> This is a quote:
+
+This is a multi line quotes:
+
+> Here is some multiline quotes.
+> Another line
+> quotes get put ont he same line, if space allows
+
+## Code Blocks
+
+### To make code block in your text, use three backticks:
+
+```
+install.packages("tidyvere")
+library(tidyverse)
+
+```
+
+You can also have code within yout text like this:` echo hellow world`
 
 
