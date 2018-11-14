@@ -114,6 +114,8 @@ Use either asterik or minus sign:
 You can link stuff to your documents  like this : [etherpad](https://pad.carpentroes.org/2018-11-13-otago-dc)
 
 To put an image, use an exclmation amrk before link:
-![rat]
+![rat](https://s3.r29static.com//bin/entry/b11/0,200,2000,2000/x,80/1702650/image.jpg)
+
+
 
 
