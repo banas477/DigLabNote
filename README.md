@@ -83,3 +83,30 @@ You can make a simple tables by using pipe symbol and minus sign:
 | item 2   | item   2 | item 3   |
 | **bold** |*italics*| `code`|
 |--------:| :--------:|------:|
+
+
+## Item lists
+
+### Ordered lists
+
+1. This is the first item
+    1. sub item? Fours space
+1. This is the second item
+1. This is the third item
+
+## Unordered lists
+
+Use either asterik or minus sign:
+* item 1
+    * item 2
+    
+* item 2
+
+- item 3
+
+## Check list
+- [ ] checked list 1
+- [x] checked list 1
+- [ ] checked list 1
+
+
