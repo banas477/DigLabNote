@@ -74,4 +74,12 @@ library(tidyverse)
 
 You can also have code within yout text like this:` echo hellow world`
 
+## Tables
 
+You can make a simple tables by using pipe symbol and minus sign:
+
+| column 1 | column 2 | column 3 |
+|----------|----------|----------|
+| item 2   | item   2 | item 3   |
+| **bold** |*italics*| `code`|
+|--------:| :--------:|------:|
